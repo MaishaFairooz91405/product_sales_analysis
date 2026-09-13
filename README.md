@@ -26,7 +26,7 @@
 ### 01 - Clone the repository
 
 ```bash
-https://github.com/Aftahiislam007/classic_models_analysis
+https://github.com/MaishaFairooz91405/product_sales_analysis.git
 ```
 
 ### 02 - Download `Power Bi` desktop file from Microsoft official website
