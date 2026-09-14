@@ -1,5 +1,5 @@
 # Product Sales Analysis 
-[Dashboard](https://app.powerbi.com/links/qibClTPDnQ?ctid=5f86736b-ef43-4992-9624-06dc6eeaf097&pbi_source=linkShare)
+[Dashboard](https://drive.google.com/file/d/1EOgpQ3NyNn8nQ9i9Onn9528G1hcJ2-3q/view?usp=sharing)
 
 ## Methods and Tools used
 
